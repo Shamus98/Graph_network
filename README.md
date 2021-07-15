@@ -1,0 +1,2 @@
+# Graph_network
+With the help of social networks, you can analyze a variety of processes and processes of resources, both material and informational. For example, by analyzing the network of transactions between bank clients (where nodes serve bank clients, and edges serve transfers between them), one can determine the circle of persons involved in fraudulent transactions, or identify violations of internal regulations by bank employees.
